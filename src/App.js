@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Hola soy Alfonso CHAVEZ
+          Hola soy Alfonso Chávez Rodríguez
         </p>
         
         <a
